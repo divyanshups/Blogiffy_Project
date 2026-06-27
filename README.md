@@ -1,4 +1,4 @@
-# Blogiffy 📝
+# Blogiffy 
 
 > A blogging platform for learners and educators to share knowledge, insights, and ideas — freely and openly.
 
