@@ -46,8 +46,8 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blogiffy.git
-cd blogiffy
+git clone https://github.com/divyanshups/Blogiffy_Project.git
+cd Blogiffy_Project
 ```
 
 ---
@@ -165,7 +165,7 @@ Open that URL in your browser to see Blogiffy running locally.
 ## 📁 Project Structure
 
 ```
-blogiffy/
+Blogiffy_Project/
 ├── app.py               # Application entry point
 ├── config.py            # Configuration and env loading
 ├── requirements.txt     # Python dependencies
